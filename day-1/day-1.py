@@ -8,5 +8,5 @@ street = input("Em qual cidade você cresceu:\n")
 pet = input("Qual o seu animal de estimação favorito ?\n")
 #4. Combine the name of their city and pet and show them their band name.
 
-print("O nome da sua banda é " + street + pet)
+print("O nome da sua banda é " + street + " " + pet)
 #5. Make sure the input cursor shows on a new line:
